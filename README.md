@@ -20,7 +20,7 @@
 
 우리는 동물,과일과 국가의 단어 동류를 제공했습니다.해당 숫자를 입력하시면 닌이도 선택으로 이동하겠습니다
 
-![]<img width="777" alt="截屏2024-06-05 15 16 30" src="https://github.com/LouisChow0306/python-project/assets/90633568/ad005bc7-3894-4c5e-89de-07842ebbf892">
+<img width="777" alt="截屏2024-06-05 15 16 30" src="https://github.com/LouisChow0306/python-project/assets/90633568/ad005bc7-3894-4c5e-89de-07842ebbf892">
 
 
 ## 난이도 선택
@@ -29,7 +29,7 @@
 
 단어 종류과 같은 원하는 난이도를 선택하면 됩니다.
 
-![]<img width="1009" alt="截屏2024-06-05 15 24 35" src="https://github.com/LouisChow0306/python-project/assets/90633568/45f61bca-f13c-4c35-8e81-52947e1ec5a7">
+<img width="1009" alt="截屏2024-06-05 15 24 35" src="https://github.com/LouisChow0306/python-project/assets/90633568/45f61bca-f13c-4c35-8e81-52947e1ec5a7">
 
 
 #### 난이도간의 차이
@@ -48,14 +48,14 @@
 
 단,한번 게임 중에 2차'hint'할 수 있습니다.그래서 신중한 사용하면 더 좋습니다.
 
-![]<img width="554" alt="截屏2024-06-05 15 42 43" src="https://github.com/LouisChow0306/python-project/assets/90633568/fbb34e7a-9547-45d4-a303-78d1314fca56">
+<img width="554" alt="截屏2024-06-05 15 42 43" src="https://github.com/LouisChow0306/python-project/assets/90633568/fbb34e7a-9547-45d4-a303-78d1314fca56">
 
 
 ## 시간 제한
 
 60초이내 입력하지 않아면 게임을 종료 하겠습니다.
 
-![]<img width="262" alt="截屏2024-06-05 15 48 25" src="https://github.com/LouisChow0306/python-project/assets/90633568/14b3332b-81dd-4497-8b33-9b9d6d382f80">
+<img width="262" alt="截屏2024-06-05 15 48 25" src="https://github.com/LouisChow0306/python-project/assets/90633568/14b3332b-81dd-4497-8b33-9b9d6d382f80">
 
 
 ## 점수 기록
@@ -64,7 +64,7 @@
 
 또한,score.txt에서 역사 점수를 볼 수 있습니다.
 
-![]<img width="246" alt="截屏2024-06-05 15 50 30" src="https://github.com/LouisChow0306/python-project/assets/90633568/3b739080-4bcb-4a34-9a97-76bd19862481">
+<img width="246" alt="截屏2024-06-05 15 50 30" src="https://github.com/LouisChow0306/python-project/assets/90633568/3b739080-4bcb-4a34-9a97-76bd19862481">
 
 
 ## 게임 재 시작과 종료
@@ -73,9 +73,9 @@
 
 'Y'를 입력하면 게임 재 시작하겠습니다.
 
-![]<img width="413" alt="截屏2024-06-05 15 59 13" src="https://github.com/LouisChow0306/python-project/assets/90633568/0dd37c0c-11e8-45e3-9d72-497c79f727a1">
+<img width="413" alt="截屏2024-06-05 15 59 13" src="https://github.com/LouisChow0306/python-project/assets/90633568/0dd37c0c-11e8-45e3-9d72-497c79f727a1">
 
 
 'N'를 입력 하면 프르그램이 종료하겠습니다.
 
-![]<img width="392" alt="截屏2024-06-05 16 03 03" src="https://github.com/LouisChow0306/python-project/assets/90633568/1e3da092-5ac7-45c2-943f-adacf4835d5a">
+<img width="392" alt="截屏2024-06-05 16 03 03" src="https://github.com/LouisChow0306/python-project/assets/90633568/1e3da092-5ac7-45c2-943f-adacf4835d5a">
